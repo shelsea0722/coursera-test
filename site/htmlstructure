@@ -1,0 +1,13 @@
+<!doctype html>
+<!-- always start with this so it signals to the browser its valid-->
+<html> 
+<!-- this encapsulates the entire document -->
+	<head> 
+	<!-- metadata about the main content -->
+		<meta charset="utf-8"> <!-- meta tag is a self closing tag and utf-8n is commonly used -->
+		<title>Coursera is cool!</title> <!-- mandatory -->
+	<body> <!-- for content -->
+	coursera is so cool! i'm learning so much!
+	</body>
+	</head>
+</html>
